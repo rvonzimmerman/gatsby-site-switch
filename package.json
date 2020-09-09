@@ -19,6 +19,7 @@
     "react-helmet": "^6.1.0"
   },
   "devDependencies": {
+    "gatsby-plugin-page-creator": "^2.3.27",
     "prettier": "2.1.1"
   },
   "keywords": [
